@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UKMCNXM/odin_images_OS1.0.4.0.UKMCNXM_20240726.0000.00_14.0_cn_827ce13743.tgz
-  ROM_NAME: MIUI
+  ROM_URL: https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202412071937205239b0c1ae15875157f1b2d4ded0695a.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
